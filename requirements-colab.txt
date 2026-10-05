@@ -1,0 +1,4 @@
+# Optional dependencies for --mode local. Colab provides a CUDA-enabled PyTorch.
+transformers>=4.45,<5
+accelerate>=0.34,<2
+bitsandbytes>=0.43,<1

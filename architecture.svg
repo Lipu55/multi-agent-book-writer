@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1140">
+<rect width="1080" height="1140" fill="#f4f7fa"/>
+<text x="345.5" y="69.0" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#153442">Multi-Agent Book Writer</text>
+<text x="282.4" y="103.0" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#153442">Python orchestrator owns state, revision budgets and publication</text>
+<rect x="335" y="140" width="410" height="95" fill="white" stroke="#aac1ca" stroke-width="1.5"/>
+<text x="497.8" y="179.0" font-family="Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#153442">Planner</text>
+<text x="424.9" y="207.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">3 chapters and research questions</text>
+<rect x="335" y="285" width="410" height="95" fill="white" stroke="#aac1ca" stroke-width="1.5"/>
+<text x="477.4" y="324.0" font-family="Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#153442">Researcher</text>
+<text x="418.3" y="352.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">Fetch public pages; extract evidence</text>
+<rect x="335" y="430" width="410" height="95" fill="white" stroke="#aac1ca" stroke-width="1.5"/>
+<text x="506.8" y="469.0" font-family="Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#153442">Writer</text>
+<text x="437.9" y="497.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">Prose, citations and Takeaway</text>
+<rect x="145" y="585" width="335" height="110" fill="white" stroke="#aac1ca" stroke-width="1.5"/>
+<text x="279.3" y="624.0" font-family="Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#153442">Editor</text>
+<text x="222.9" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">Grammar, clarity and voice</text>
+<rect x="600" y="585" width="335" height="110" fill="white" stroke="#aac1ca" stroke-width="1.5"/>
+<text x="696.6" y="624.0" font-family="Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#153442">Fact-checker</text>
+<text x="631.2" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">Every sentence checked against sources</text>
+<rect x="335" y="770" width="410" height="115" fill="white" stroke="#aac1ca" stroke-width="1.5"/>
+<text x="469.7" y="809.0" font-family="Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#153442">Release gate</text>
+<text x="436.2" y="837.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">Format, reviews and fresh links</text>
+<text x="432.9" y="860.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">Initial draft plus up to 2 revisions</text>
+<rect x="145" y="980" width="335" height="100" fill="white" stroke="#aac1ca" stroke-width="1.5"/>
+<text x="198.7" y="1019.0" font-family="Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#153442">Book and references</text>
+<text x="260.8" y="1047.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">All checks pass</text>
+<rect x="600" y="980" width="335" height="100" fill="white" stroke="#aac1ca" stroke-width="1.5"/>
+<text x="712.5" y="1019.0" font-family="Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#153442">Failed run</text>
+<text x="642.9" y="1047.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">Budget exhausted or invalid evidence</text>
+<polyline points="540,235 540,285" fill="none" stroke="#356577" stroke-width="2.5"/>
+<polygon points="534,274 546,274 540,285" fill="#356577"/>
+<polyline points="540,380 540,430" fill="none" stroke="#356577" stroke-width="2.5"/>
+<polygon points="534,419 546,419 540,430" fill="#356577"/>
+<polyline points="440,525 440,554 312,554 312,585" fill="none" stroke="#356577" stroke-width="2.5"/>
+<polygon points="306,574 318,574 312,585" fill="#356577"/>
+<polyline points="640,525 640,554 768,554 768,585" fill="none" stroke="#356577" stroke-width="2.5"/>
+<polygon points="762,574 774,574 768,585" fill="#356577"/>
+<polyline points="312,695 312,733 440,733 440,770" fill="none" stroke="#356577" stroke-width="2.5"/>
+<polygon points="434,759 446,759 440,770" fill="#356577"/>
+<polyline points="768,695 768,733 640,733 640,770" fill="none" stroke="#356577" stroke-width="2.5"/>
+<polygon points="634,759 646,759 640,770" fill="#356577"/>
+<polyline points="440,885 440,930 312,930 312,980" fill="none" stroke="#356577" stroke-width="2.5"/>
+<polygon points="306,969 318,969 312,980" fill="#356577"/>
+<polyline points="640,885 640,930 768,930 768,980" fill="none" stroke="#356577" stroke-width="2.5"/>
+<polygon points="762,969 774,969 768,980" fill="#356577"/>
+<polyline points="335,827 65,827 65,477 335,477" fill="none" stroke="#356577" stroke-width="2.5"/>
+<polygon points="324,471 324,483 335,477" fill="#356577"/>
+<text x="108.1" y="765.0" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#153442">Issues + budget remains</text>
+<text x="254.5" y="1121.0" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="400" fill="#153442">Outline, evidence, drafts, reviews and status changes are saved in the audit trail.</text>
+</svg>

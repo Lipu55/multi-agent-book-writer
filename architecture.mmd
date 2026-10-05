@@ -1,0 +1,10 @@
+flowchart TD
+    P[Planner] --> R[Researcher]
+    R -->|Verified source excerpts| W[Writer]
+    W --> E[Editor]
+    W --> F[Fact-checker]
+    E --> G{Release gate}
+    F --> G
+    G -->|Issues and budget remains| W
+    G -->|All checks pass| B[Book and references]
+    G -->|Budget exhausted| X[Failure and audit trail]
